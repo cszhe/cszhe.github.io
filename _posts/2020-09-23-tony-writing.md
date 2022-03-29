@@ -1,9 +1,7 @@
----
-title: Why the Book of Perfectly Perilous Math is the best book ever!
-date: 2020-09-23 10:20
-category: 何事谦
+Title: Why the Book of Perfectly Perilous Math is the best book ever!
+Date: 2020-09-23 10:20
+Category: 何事谦
 tags:   何事谦
----
 
 Why the Book of Perfectly Perilous Math is the best book ever!
 
