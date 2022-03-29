@@ -1,3 +1,19 @@
-theme: jekyll-theme-minimal
+theme: minima
+
+# author:
+#   name: Zongjian He
+
 title: Zongjian He's Blog
 description: My personal blog, starting from 2002
+
+header_pages:
+  - index.md
+  - search.md
+  - about.md
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+
